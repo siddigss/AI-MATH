@@ -8,6 +8,8 @@
   - Chain Rule [[Video](https://www.youtube.com/watch?v=HaHsqDjWMLU)]
   - Quotient Rule [[Video](https://www.youtube.com/watch?v=8jVDEcQ0wXk)]
   - Examples [[Video](https://www.youtube.com/watch?v=FLAm7Hqm-58)]
+  - Monotonic Behaviour [[Video](https://www.youtube.com/watch?v=Dyl7jPlJXOM)]
+  - Finding Minimum and Maximum [[Video](https://www.youtube.com/watch?v=3wrXDw5ETh4&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&index=110)]
 
 ### Tools
 - [Wolfram Alpha](https://www.wolframalpha.com/): solve equations, plot functions, calculus...
