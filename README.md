@@ -1,4 +1,4 @@
-# AI-MATH
+# AI MATH Course for High School Students 
 ### Resources
 - What is a function [[Video](https://www.youtube.com/watch?v=kvGsIo1TmsM)]
 - Finding domain of functions [[Video 1](https://www.youtube.com/watch?v=4ZWbeESjv4M)] [[Video 2](https://www.youtube.com/watch?v=djT6-YamHaA)]
